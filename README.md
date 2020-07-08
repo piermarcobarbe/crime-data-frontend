@@ -23,7 +23,7 @@ Example Requests:
 
 You will need `node` and `npm` to install and run this project.
 
-1.  `git clone git@github.com:fbi-cde/crime-data-frontend.git cde && cd cde`
+1.  `git clone https://github.com/fbi-cde/crime-data-frontend.git cde && cd cde`
 2.  `npm install`
 
 ### Running the app locally
